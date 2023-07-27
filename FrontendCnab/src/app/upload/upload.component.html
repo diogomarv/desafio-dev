@@ -1,0 +1,70 @@
+<div class="container">
+  <h2>Upload de arquivos CNAB</h2>
+
+  <div class="file" *ngIf="uploadStatus === 'select'">
+    <label for="input-file">
+      <i class="material-icons">cloud_queue </i>Selecione um arquivo
+    </label>
+    <input id="input-file" type="file" (change)="onFileSelected($event)" />
+  </div>
+
+  <div class="file file--upload" *ngIf="uploadStatus === 'upload'">
+    <label for="input-file">
+      <i class="material-icons">cloud_upload</i>Enviando o arquivo
+      {{ filename }}. Por favor, aguarde...
+    </label>
+    <input id="input-file" type="file" />
+  </div>
+
+  <div class="file file--danger" *ngIf="uploadStatus === 'error'">
+    <label for="input-file">
+      <i class="material-icons">cloud_off</i>Error
+    </label>
+    <input id="input-file" type="file" />
+  </div>
+
+  <div class="file file--success" *ngIf="uploadStatus === 'done'">
+    <label for="input-file">
+      <i class="material-icons">cloud_done</i>Enviado com sucesso!
+    </label>
+    <input id="input-file" type="file" />
+  </div>
+
+  <div *ngIf="loading" class="loading-indicator">
+    <app-loading />
+  </div>
+
+  <div *ngIf="arquivos.length == 0">
+    <h3 class="subtitle">Ops! Sem arquivos para mostrar por aqui :( <br> Que tal subir um?</h3>
+  </div>
+
+  <div *ngIf="arquivos.length != 0">
+    <div class="tbl-header loading-indicator">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <thead>
+          <tr>
+            <th>Tipo</th>
+            <th>Nome da Loja</th>
+            <th>Dono da Loja</th>
+            <th>Saldo em Conta</th>
+            <th>Data</th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+
+    <div class="tbl-content">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+          <tr *ngFor="let arquivo of arquivos">
+            <td>{{ arquivo.tipoDescricao }}</td>
+            <td>{{ arquivo.nomeLoja }}</td>
+            <td>{{ arquivo.donoLoja }}</td>
+            <td>{{ arquivo.valor }}</td>
+            <td>{{ arquivo.data | date : "dd/MM/yyyy" }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
