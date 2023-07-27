@@ -1,0 +1,17 @@
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\bin\Debug\net6.0\Desafio.Infra.deps.json
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\bin\Debug\net6.0\Desafio.Infra.runtimeconfig.json
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\bin\Debug\net6.0\Desafio.Infra.dll
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\bin\Debug\net6.0\Desafio.Infra.pdb
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\bin\Debug\net6.0\Desafio.Domain.dll
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\bin\Debug\net6.0\Desafio.Domain.pdb
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.csproj.AssemblyReference.cache
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.AssemblyInfoInputs.cache
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.AssemblyInfo.cs
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.csproj.CoreCompileInputs.cache
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.csproj.CopyComplete
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.dll
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\refint\Desafio.Infra.dll
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.pdb
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\Desafio.Infra.genruntimeconfig.cache
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Infra\obj\Debug\net6.0\ref\Desafio.Infra.dll

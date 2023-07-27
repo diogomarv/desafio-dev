@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C2eMLuOk/7QUuzLLppMJE3UBB2dx+sUf9PDeW2zsIMY=",
+  "Source": "Cnab.API",
+  "BasePath": "_content/Cnab.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

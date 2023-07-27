@@ -1,0 +1,15 @@
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\bin\Debug\net6.0\Desafio.Service.deps.json
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\bin\Debug\net6.0\Desafio.Service.dll
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\bin\Debug\net6.0\Desafio.Service.pdb
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\bin\Debug\net6.0\Desafio.Domain.dll
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\bin\Debug\net6.0\Desafio.Domain.pdb
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\Desafio.Service.csproj.AssemblyReference.cache
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\Desafio.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\Desafio.Service.AssemblyInfoInputs.cache
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\Desafio.Service.AssemblyInfo.cs
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\Desafio.Service.csproj.CoreCompileInputs.cache
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\Desafio.Service.csproj.CopyComplete
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\Desafio.Service.dll
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\refint\Desafio.Service.dll
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\Desafio.Service.pdb
+C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Service\obj\Debug\net6.0\ref\Desafio.Service.dll
