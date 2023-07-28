@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgizmQNKn5JUcFy6XbTKisHMocUdQ5cW9TrNZ8U4ZM3ivYUjLXl7Lky2BonQori4jm/YF/Ok90BKzZrUgJC8KQ==",
+  "dgSpecHash": "3XNFL8eruwipOxjzxKP0ef4uZoCwej5Eq68SyN5ay9ZFs5wKcoP9pnj+6eTJ37WOJmfFmcE5De3TtZreqc/zbA==",
   "success": true,
-  "projectFilePath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Test\\Cnab.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Test\\Cnab.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diogo\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Diogo\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

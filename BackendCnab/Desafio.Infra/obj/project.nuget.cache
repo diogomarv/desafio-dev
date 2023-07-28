@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/y7xOWMJ3L4L+R/BMyL3mpSh4l4yKc1NvJCa/Pa5osrRxvzpiNXD33SiznlNs3C0zjGcsSsiMhxWTQGmoZ7+w==",
+  "dgSpecHash": "189Fd5zbCHiGl+THx2QGDViLmYOGJ36UoMR1nf7L+bdyCI/j6k3R/T4Se2Cvev0oU0H8oXQ8eYnoD7K5yVfGjg==",
   "success": true,
-  "projectFilePath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Infra\\Cnab.Infra.csproj",
+  "projectFilePath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Infra\\Cnab.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diogo\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",

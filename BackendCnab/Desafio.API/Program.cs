@@ -38,8 +38,8 @@ options.UseSqlServer(connectionString));
 // ** Configuração do AutoMapper e DI
 var config = new AutoMapper.MapperConfiguration(cfg =>
 {
-    cfg.AddProfile(new DtoToEntityProfile());
-    cfg.AddProfile(new EntityToDtoProfile());
+    cfg.AddProfile(new DtoToEntity());
+    cfg.AddProfile(new EntityToDto());
 });
 
 IMapper mapper = config.CreateMapper();

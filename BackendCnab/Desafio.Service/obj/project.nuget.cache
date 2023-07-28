@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8UETJD/72vhueuKW+hlZHFYPVB0QA6lffqCJa1AdV8XnCYyB20hzLL5TK4XceFOfcv6TxGVOSwjyCKR66ODKiA==",
+  "dgSpecHash": "AWtgOeE9ZWMPArCAVGfgh1S4gmPtIkjdc/+4mWir8lmkr4ltDozqyjlOjORG99DJvUJzCpNNFmSlkxf4Ipo4ew==",
   "success": true,
-  "projectFilePath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Service\\Cnab.Service.csproj",
+  "projectFilePath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Service\\Cnab.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diogo\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",

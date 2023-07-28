@@ -4,9 +4,9 @@ using Desafio.Domain.Entities.Arquivos.Layouts.Cnab;
 
 namespace Desafio.Application.Mapper;
 
-public class DtoToEntityProfile : Profile
+public class DtoToEntity : Profile
 {
-    public DtoToEntityProfile()
+    public DtoToEntity()
     {
         CreateMap<Domain.Entities.Arquivos.Layouts.Cnab.Cnab, CnabDto>()
             .ReverseMap();

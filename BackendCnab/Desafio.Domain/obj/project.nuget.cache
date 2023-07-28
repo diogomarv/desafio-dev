@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A+i3nRPuTb23WYEHx1bVaxRjsQgRhBtV+hWMDXO0LCiwzP+DFskl0fgE2XulWzSWlI6mrC88ez5Xik0zZGTmvg==",
+  "dgSpecHash": "duBaTLVHclpZ5ShzFQ88ipR4xbIkW44qFxkMwtPiXXtZ1nsLDWJsQ6pz2iuuZOmNONRIirRA6irW/JnQPMHu6w==",
   "success": true,
-  "projectFilePath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Domain\\Cnab.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Domain\\Cnab.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
     "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Service\\Cnab.Service.csproj": {}
+    "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Service\\Cnab.Service.csproj": {}
   },
   "projects": {
-    "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Domain\\Cnab.Domain.csproj": {
+    "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Domain\\Cnab.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Domain\\Cnab.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Domain\\Cnab.Domain.csproj",
         "projectName": "Cnab.Domain",
-        "projectPath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Domain\\Cnab.Domain.csproj",
+        "projectPath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Domain\\Cnab.Domain.csproj",
         "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Service\\Cnab.Service.csproj": {
+    "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Service\\Cnab.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Service\\Cnab.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Service\\Cnab.Service.csproj",
         "projectName": "Cnab.Service",
-        "projectPath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Service\\Cnab.Service.csproj",
+        "projectPath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Service\\Cnab.Service.csproj",
         "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Service\\obj\\",
+        "outputPath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Domain\\Cnab.Domain.csproj": {
-                "projectPath": "C:\\Git\\tt\\desafio-dev\\desafio-cnab-backend\\Desafio.Domain\\Cnab.Domain.csproj"
+              "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Domain\\Cnab.Domain.csproj": {
+                "projectPath": "C:\\Users\\Diogo\\Documents\\desafio-dev\\BackendCnab\\Desafio.Domain\\Cnab.Domain.csproj"
               }
             }
           }
