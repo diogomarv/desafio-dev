@@ -1,5 +1,6 @@
 import { Component } from "@angular/core";
 import { UploadService } from "../services/upload.service";
+import { IArquivo } from "../models/interfaces/IArquivos";
 
 @Component({
   selector: "app-upload",
@@ -10,7 +11,7 @@ export class UploadComponent {
   uploadStatus: string = "select";
   selectedFile: File | null = null;
   filename: string = "";
-  arquivos: any;
+  arquivos!: IArquivo[];
   loading: boolean = false;
 
   constructor(private uploadService: UploadService) {}

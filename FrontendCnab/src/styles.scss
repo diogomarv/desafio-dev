@@ -3,13 +3,8 @@
 .html,
 body {
   background-color: #ededff;
-}
-html,
-body {
   height: 100%;
   padding: 10px;
-}
-body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
@@ -19,8 +14,8 @@ button {
 }
 
 .subtitle {
- color: rgb(107, 130, 180);
- font-weight: 400;
- text-align: center;
- line-height: 26px;
+  color: rgb(107, 130, 180);
+  font-weight: 400;
+  text-align: center;
+  line-height: 26px;
 }
