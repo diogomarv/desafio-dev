@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Desafio.Application.DI;
 using Desafio.Application.Mapper;
 using Desafio.Domain.Interfaces.Repositories;
 using Desafio.Domain.Interfaces.Services;
@@ -36,7 +35,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseSqlServer(connectionString));
 
 // ** Configuração do AutoMapper e DI
-var config = new AutoMapper.MapperConfiguration(cfg =>
+var config = new MapperConfiguration(cfg =>
 {
     cfg.AddProfile(new DtoToEntity());
     cfg.AddProfile(new EntityToDto());

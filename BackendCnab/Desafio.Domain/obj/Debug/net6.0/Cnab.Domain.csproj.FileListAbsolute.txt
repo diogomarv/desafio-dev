@@ -10,3 +10,15 @@ C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Domain\obj\Debug\net6.0\Cnab.
 C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Domain\obj\Debug\net6.0\refint\Cnab.Domain.dll
 C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Domain\obj\Debug\net6.0\Cnab.Domain.pdb
 C:\Git\tt\desafio-dev\desafio-cnab-backend\Desafio.Domain\obj\Debug\net6.0\ref\Cnab.Domain.dll
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\bin\Debug\net6.0\Cnab.Domain.deps.json
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\bin\Debug\net6.0\Cnab.Domain.dll
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\bin\Debug\net6.0\Cnab.Domain.pdb
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\Cnab.Domain.csproj.AssemblyReference.cache
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\Cnab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\Cnab.Domain.AssemblyInfoInputs.cache
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\Cnab.Domain.AssemblyInfo.cs
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\Cnab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\Cnab.Domain.dll
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\refint\Cnab.Domain.dll
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\Cnab.Domain.pdb
+C:\Users\Diogo\Documents\desafio-dev\BackendCnab\Desafio.Domain\obj\Debug\net6.0\ref\Cnab.Domain.dll
